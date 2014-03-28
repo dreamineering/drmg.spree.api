@@ -1,0 +1,2 @@
+module SnapshotProductsHelper
+end
